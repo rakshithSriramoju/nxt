@@ -145,6 +145,7 @@ class AllProductsSection extends Component {
       <p className="products-failure-description">
         We are having some trouble processing your request. Please try again.
       </p>
+      <h1>hi</h1>
     </div>
   )
 
