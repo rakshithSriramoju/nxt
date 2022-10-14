@@ -146,6 +146,7 @@ class AllProductsSection extends Component {
         We are having some trouble processing your request. Please try again.
       </p>
       <h1>hi</h1>
+      <p>hi</p>
     </div>
   )
 
